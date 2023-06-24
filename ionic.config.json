@@ -1,0 +1,7 @@
+{
+  "name": "examen_cardenas_paula",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
